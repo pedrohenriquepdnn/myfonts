@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'Problem Child';
+    src: url('Problem-Child.eot');
+    src: url('Problem-Child.eot?#iefix') format('embedded-opentype'),
+         url('Problem-Child.woff') format('woff'),
+         url('Problem-Child.ttf') format('truetype'),
+         url('Problem-Child.svg#Problem Child') format('svg');
+    font-weight: 500;
+    font-style: normal;
+}
